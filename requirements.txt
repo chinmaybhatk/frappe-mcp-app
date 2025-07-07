@@ -1,1 +1,2 @@
+# frappe-mcp will be installed from PyPI
 frappe-mcp
