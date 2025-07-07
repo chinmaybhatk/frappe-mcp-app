@@ -1,0 +1,3 @@
+# List of patches to be run during app installation/update
+# Each patch should be on a new line
+# Format: app_name.patches.patch_file_name
