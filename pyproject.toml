@@ -1,0 +1,19 @@
+[project]
+name = "frappe_mcp_app"
+version = "0.0.1"
+description = "Frappe MCP integration app for exposing Frappe tools to AI assistants"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Chinmay Bhatk", email = "your@email.com" }
+]
+dependencies = [
+    "frappe-mcp",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["frappe_mcp_app*"]
