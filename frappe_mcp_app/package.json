@@ -1,0 +1,9 @@
+{
+  "name": "frappe_mcp_app",
+  "version": "1.0.0",
+  "description": "Frappe MCP App",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
